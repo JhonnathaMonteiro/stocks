@@ -1,0 +1,506 @@
+﻿code,name,country,exchange,currency,type,market
+A,Agilent Technologies,Health Care,NYSE,USD,Common Stock,us_500
+AAL,American Airlines Group,Industrials,NYSE,USD,Common Stock,us_500
+AAP,Advance Auto Parts,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+AAPL,Apple Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+ABBV,AbbVie Inc.,Health Care,NYSE,USD,Common Stock,us_500
+ABC,AmerisourceBergen,Health Care,NYSE,USD,Common Stock,us_500
+ABMD,Abiomed,Health Care,NYSE,USD,Common Stock,us_500
+ABT,Abbott Laboratories,Health Care,NYSE,USD,Common Stock,us_500
+ACN,Accenture,Information Technology,NYSE,USD,Common Stock,us_500
+ADBE,Adobe Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+ADI,Analog Devices Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+ADM,Archer-Daniels-Midland Co,Consumer Staples,NYSE,USD,Common Stock,us_500
+ADP,Automatic Data Processing,Information Technology,NYSE,USD,Common Stock,us_500
+ADSK,Autodesk Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+AEE,Ameren Corp,Utilities,NYSE,USD,Common Stock,us_500
+AEP,American Electric Power,Utilities,NYSE,USD,Common Stock,us_500
+AES,AES Corp,Utilities,NYSE,USD,Common Stock,us_500
+AFL,Aflac,Financials,NYSE,USD,Common Stock,us_500
+AIG,American International Group,Financials,NYSE,USD,Common Stock,us_500
+AIZ,Assurant,Financials,NYSE,USD,Common Stock,us_500
+AJG,Arthur J. Gallagher & Co.,Financials,NYSE,USD,Common Stock,us_500
+AKAM,Akamai Technologies,Information Technology,NYSE,USD,Common Stock,us_500
+ALB,Albemarle Corporation,Materials,NYSE,USD,Common Stock,us_500
+ALGN,Align Technology,Health Care,NYSE,USD,Common Stock,us_500
+ALK,Alaska Air Group,Industrials,NYSE,USD,Common Stock,us_500
+ALL,Allstate Corp,Financials,NYSE,USD,Common Stock,us_500
+ALLE,Allegion,Industrials,NYSE,USD,Common Stock,us_500
+ALXN,Alexion Pharmaceuticals,Health Care,NYSE,USD,Common Stock,us_500
+AMAT,Applied Materials Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+AMCR,Amcor,Materials,NYSE,USD,Common Stock,us_500
+AMD,Advanced Micro Devices,Information Technology,NYSE,USD,Common Stock,us_500
+AME,Ametek,Industrials,NYSE,USD,Common Stock,us_500
+AMGN,Amgen Inc.,Health Care,NYSE,USD,Common Stock,us_500
+AMP,Ameriprise Financial,Financials,NYSE,USD,Common Stock,us_500
+AMT,American Tower Corp.,Real Estate,NYSE,USD,Common Stock,us_500
+AMZN,Amazon.com Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+ANET,Arista Networks,Information Technology,NYSE,USD,Common Stock,us_500
+ANSS,ANSYS Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+ANTM,Anthem,Health Care,NYSE,USD,Common Stock,us_500
+AON,Aon plc,Financials,NYSE,USD,Common Stock,us_500
+AOS,A.O. Smith Corp,Industrials,NYSE,USD,Common Stock,us_500
+APA,APA Corporation,Energy,NYSE,USD,Common Stock,us_500
+APD,Air Products & Chemicals,Materials,NYSE,USD,Common Stock,us_500
+APH,Amphenol Corp,Information Technology,NYSE,USD,Common Stock,us_500
+APTV,Aptiv PLC,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+ARE,Alexandria Real Estate Equities,Real Estate,NYSE,USD,Common Stock,us_500
+ATO,Atmos Energy,Utilities,NYSE,USD,Common Stock,us_500
+ATVI,Activision Blizzard,Communication Services,NYSE,USD,Common Stock,us_500
+AVB,AvalonBay Communities,Real Estate,NYSE,USD,Common Stock,us_500
+AVGO,Broadcom Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+AVY,Avery Dennison Corp,Materials,NYSE,USD,Common Stock,us_500
+AWK,American Water Works,Utilities,NYSE,USD,Common Stock,us_500
+AXP,American Express,Financials,NYSE,USD,Common Stock,us_500
+AZO,AutoZone Inc,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+BA,Boeing Company,Industrials,NYSE,USD,Common Stock,us_500
+BAC,Bank of America Corp,Financials,NYSE,USD,Common Stock,us_500
+BAX,Baxter International Inc.,Health Care,NYSE,USD,Common Stock,us_500
+BBY,Best Buy Co. Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+BDX,Becton Dickinson,Health Care,NYSE,USD,Common Stock,us_500
+BEN,Franklin Resources,Financials,NYSE,USD,Common Stock,us_500
+BF.B,Brown-Forman Corp.,Consumer Staples,NYSE,USD,Common Stock,us_500
+BIIB,Biogen Inc.,Health Care,NYSE,USD,Common Stock,us_500
+BIO,Bio-Rad Laboratories,Health Care,NYSE,USD,Common Stock,us_500
+BK,The Bank of New York Mellon,Financials,NYSE,USD,Common Stock,us_500
+BKNG,Booking Holdings Inc,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+BKR,Baker Hughes Co,Energy,NYSE,USD,Common Stock,us_500
+BLK,BlackRock,Financials,NYSE,USD,Common Stock,us_500
+BLL,Ball Corp,Materials,NYSE,USD,Common Stock,us_500
+BMY,Bristol-Myers Squibb,Health Care,NYSE,USD,Common Stock,us_500
+BR,Broadridge Financial Solutions,Information Technology,NYSE,USD,Common Stock,us_500
+BRK.B,Berkshire Hathaway,Financials,NYSE,USD,Common Stock,us_500
+BSX,Boston Scientific,Health Care,NYSE,USD,Common Stock,us_500
+BWA,BorgWarner,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+BXP,Boston Properties,Real Estate,NYSE,USD,Common Stock,us_500
+C,Citigroup Inc.,Financials,NYSE,USD,Common Stock,us_500
+CAG,Conagra Brands,Consumer Staples,NYSE,USD,Common Stock,us_500
+CAH,Cardinal Health Inc.,Health Care,NYSE,USD,Common Stock,us_500
+CARR,Carrier Global,Industrials,NYSE,USD,Common Stock,us_500
+CAT,Caterpillar Inc.,Industrials,NYSE,USD,Common Stock,us_500
+CB,Chubb Limited,Financials,NYSE,USD,Common Stock,us_500
+CBOE,Cboe Global Markets,Financials,NYSE,USD,Common Stock,us_500
+CBRE,CBRE Group,Real Estate,NYSE,USD,Common Stock,us_500
+CCI,Crown Castle,Real Estate,NYSE,USD,Common Stock,us_500
+CCL,Carnival Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+CDNS,Cadence Design Systems,Information Technology,NYSE,USD,Common Stock,us_500
+CDW,CDW,Information Technology,NYSE,USD,Common Stock,us_500
+CE,Celanese,Materials,NYSE,USD,Common Stock,us_500
+CERN,Cerner,Health Care,NYSE,USD,Common Stock,us_500
+CF,CF Industries Holdings Inc,Materials,NYSE,USD,Common Stock,us_500
+CFG,Citizens Financial Group,Financials,NYSE,USD,Common Stock,us_500
+CHD,Church & Dwight,Consumer Staples,NYSE,USD,Common Stock,us_500
+CHRW,C. H. Robinson Worldwide,Industrials,NYSE,USD,Common Stock,us_500
+CHTR,Charter Communications,Communication Services,NYSE,USD,Common Stock,us_500
+CI,Cigna,Health Care,NYSE,USD,Common Stock,us_500
+CINF,Cincinnati Financial,Financials,NYSE,USD,Common Stock,us_500
+CL,Colgate-Palmolive,Consumer Staples,NYSE,USD,Common Stock,us_500
+CLX,The Clorox Company,Consumer Staples,NYSE,USD,Common Stock,us_500
+CMA,Comerica Inc.,Financials,NYSE,USD,Common Stock,us_500
+CMCSA,Comcast Corp.,Communication Services,NYSE,USD,Common Stock,us_500
+CME,CME Group Inc.,Financials,NYSE,USD,Common Stock,us_500
+CMG,Chipotle Mexican Grill,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+CMI,Cummins Inc.,Industrials,NYSE,USD,Common Stock,us_500
+CMS,CMS Energy,Utilities,NYSE,USD,Common Stock,us_500
+CNC,Centene Corporation,Health Care,NYSE,USD,Common Stock,us_500
+CNP,CenterPoint Energy,Utilities,NYSE,USD,Common Stock,us_500
+COF,Capital One Financial,Financials,NYSE,USD,Common Stock,us_500
+COG,Cabot Oil & Gas,Energy,NYSE,USD,Common Stock,us_500
+COO,The Cooper Companies,Health Care,NYSE,USD,Common Stock,us_500
+COP,ConocoPhillips,Energy,NYSE,USD,Common Stock,us_500
+COST,Costco Wholesale Corp.,Consumer Staples,NYSE,USD,Common Stock,us_500
+CPB,Campbell Soup,Consumer Staples,NYSE,USD,Common Stock,us_500
+CPRT,Copart Inc,Industrials,NYSE,USD,Common Stock,us_500
+CRM,Salesforce.com,Information Technology,NYSE,USD,Common Stock,us_500
+CSCO,Cisco Systems,Information Technology,NYSE,USD,Common Stock,us_500
+CSX,CSX Corp.,Industrials,NYSE,USD,Common Stock,us_500
+CTAS,Cintas Corporation,Industrials,NYSE,USD,Common Stock,us_500
+CTLT,Catalent,Health Care,NYSE,USD,Common Stock,us_500
+CTSH,Cognizant Technology Solutions,Information Technology,NYSE,USD,Common Stock,us_500
+CTVA,Corteva,Materials,NYSE,USD,Common Stock,us_500
+CTXS,Citrix Systems,Information Technology,NYSE,USD,Common Stock,us_500
+CVS,CVS Health,Health Care,NYSE,USD,Common Stock,us_500
+CVX,Chevron Corp.,Energy,NYSE,USD,Common Stock,us_500
+D,Dominion Energy,Utilities,NYSE,USD,Common Stock,us_500
+DAL,Delta Air Lines Inc.,Industrials,NYSE,USD,Common Stock,us_500
+DD,DuPont de Nemours Inc,Materials,NYSE,USD,Common Stock,us_500
+DE,Deere & Co.,Industrials,NYSE,USD,Common Stock,us_500
+DFS,Discover Financial Services,Financials,NYSE,USD,Common Stock,us_500
+DG,Dollar General,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+DGX,Quest Diagnostics,Health Care,NYSE,USD,Common Stock,us_500
+DHI,D. R. Horton,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+DHR,Danaher Corp.,Health Care,NYSE,USD,Common Stock,us_500
+DIS,The Walt Disney Company,Communication Services,NYSE,USD,Common Stock,us_500
+DISCA,Discovery Inc. (Series A),Communication Services,NYSE,USD,Common Stock,us_500
+DISCK,Discovery Inc. (Series C),Communication Services,NYSE,USD,Common Stock,us_500
+DISH,Dish Network,Communication Services,NYSE,USD,Common Stock,us_500
+DLR,Digital Realty Trust Inc,Real Estate,NYSE,USD,Common Stock,us_500
+DLTR,Dollar Tree,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+DOV,Dover Corporation,Industrials,NYSE,USD,Common Stock,us_500
+DOW,Dow Inc.,Materials,NYSE,USD,Common Stock,us_500
+DPZ,Domino's Pizza,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+DRE,Duke Realty Corp,Real Estate,NYSE,USD,Common Stock,us_500
+DRI,Darden Restaurants,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+DTE,DTE Energy Co.,Utilities,NYSE,USD,Common Stock,us_500
+DUK,Duke Energy,Utilities,NYSE,USD,Common Stock,us_500
+DVA,DaVita Inc.,Health Care,NYSE,USD,Common Stock,us_500
+DVN,Devon Energy,Energy,NYSE,USD,Common Stock,us_500
+DXC,DXC Technology,Information Technology,NYSE,USD,Common Stock,us_500
+DXCM,DexCom,Health Care,NYSE,USD,Common Stock,us_500
+EA,Electronic Arts,Communication Services,NYSE,USD,Common Stock,us_500
+EBAY,eBay Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+ECL,Ecolab Inc.,Materials,NYSE,USD,Common Stock,us_500
+ED,Consolidated Edison,Utilities,NYSE,USD,Common Stock,us_500
+EFX,Equifax Inc.,Industrials,NYSE,USD,Common Stock,us_500
+EIX,Edison Int'l,Utilities,NYSE,USD,Common Stock,us_500
+EL,Estée Lauder Companies,Consumer Staples,NYSE,USD,Common Stock,us_500
+EMN,Eastman Chemical,Materials,NYSE,USD,Common Stock,us_500
+EMR,Emerson Electric Company,Industrials,NYSE,USD,Common Stock,us_500
+ENPH,Enphase Energy,Information Technology,NYSE,USD,Common Stock,us_500
+EOG,EOG Resources,Energy,NYSE,USD,Common Stock,us_500
+EQIX,Equinix,Real Estate,NYSE,USD,Common Stock,us_500
+EQR,Equity Residential,Real Estate,NYSE,USD,Common Stock,us_500
+ES,Eversource Energy,Utilities,NYSE,USD,Common Stock,us_500
+ESS,Essex Property Trust Inc.,Real Estate,NYSE,USD,Common Stock,us_500
+ETN,Eaton Corporation,Industrials,NYSE,USD,Common Stock,us_500
+ETR,Entergy Corp.,Utilities,NYSE,USD,Common Stock,us_500
+ETSY,Etsy,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+EVRG,Evergy,Utilities,NYSE,USD,Common Stock,us_500
+EW,Edwards Lifesciences,Health Care,NYSE,USD,Common Stock,us_500
+EXC,Exelon Corp.,Utilities,NYSE,USD,Common Stock,us_500
+EXPD,Expeditors,Industrials,NYSE,USD,Common Stock,us_500
+EXPE,Expedia Group,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+EXR,Extra Space Storage,Real Estate,NYSE,USD,Common Stock,us_500
+F,Ford Motor Company,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+FANG,Diamondback Energy,Energy,NYSE,USD,Common Stock,us_500
+FAST,Fastenal Co,Industrials,NYSE,USD,Common Stock,us_500
+FB,Facebook Inc.,Communication Services,NYSE,USD,Common Stock,us_500
+FBHS,Fortune Brands Home & Security,Industrials,NYSE,USD,Common Stock,us_500
+FCX,Freeport-McMoRan Inc.,Materials,NYSE,USD,Common Stock,us_500
+FDX,FedEx Corporation,Industrials,NYSE,USD,Common Stock,us_500
+FE,FirstEnergy Corp,Utilities,NYSE,USD,Common Stock,us_500
+FFIV,F5 Networks,Information Technology,NYSE,USD,Common Stock,us_500
+FIS,Fidelity National Information Services,Information Technology,NYSE,USD,Common Stock,us_500
+FISV,Fiserv Inc,Information Technology,NYSE,USD,Common Stock,us_500
+FITB,Fifth Third Bancorp,Financials,NYSE,USD,Common Stock,us_500
+FLIR,FLIR Systems,Information Technology,NYSE,USD,Common Stock,us_500
+FLS,Flowserve Corporation,Industrials,NYSE,USD,Common Stock,us_500
+FLT,FleetCor Technologies Inc,Information Technology,NYSE,USD,Common Stock,us_500
+FMC,FMC Corporation,Materials,NYSE,USD,Common Stock,us_500
+FOX,Fox Corporation (Class B),Communication Services,NYSE,USD,Common Stock,us_500
+FOXA,Fox Corporation (Class A),Communication Services,NYSE,USD,Common Stock,us_500
+FRC,First Republic Bank,Financials,NYSE,USD,Common Stock,us_500
+FRT,Federal Realty Investment Trust,Real Estate,NYSE,USD,Common Stock,us_500
+FTNT,Fortinet,Information Technology,NYSE,USD,Common Stock,us_500
+FTV,Fortive Corp,Industrials,NYSE,USD,Common Stock,us_500
+GD,General Dynamics,Industrials,NYSE,USD,Common Stock,us_500
+GE,General Electric,Industrials,NYSE,USD,Common Stock,us_500
+GILD,Gilead Sciences,Health Care,NYSE,USD,Common Stock,us_500
+GIS,General Mills,Consumer Staples,NYSE,USD,Common Stock,us_500
+GL,Globe Life Inc.,Financials,NYSE,USD,Common Stock,us_500
+GLW,Corning Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+GM,General Motors,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+GOOG,Alphabet Inc. (Class C),Communication Services,NYSE,USD,Common Stock,us_500
+GOOGL,Alphabet Inc. (Class A),Communication Services,NYSE,USD,Common Stock,us_500
+GPC,Genuine Parts,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+GPN,Global Payments Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+GPS,Gap Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+GRMN,Garmin Ltd.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+GS,Goldman Sachs Group,Financials,NYSE,USD,Common Stock,us_500
+GWW,Grainger (W.W.) Inc.,Industrials,NYSE,USD,Common Stock,us_500
+HAL,Halliburton Co.,Energy,NYSE,USD,Common Stock,us_500
+HAS,Hasbro Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+HBAN,Huntington Bancshares,Financials,NYSE,USD,Common Stock,us_500
+HBI,Hanesbrands Inc,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+HCA,HCA Healthcare,Health Care,NYSE,USD,Common Stock,us_500
+HD,Home Depot,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+HES,Hess Corporation,Energy,NYSE,USD,Common Stock,us_500
+HFC,HollyFrontier Corp,Energy,NYSE,USD,Common Stock,us_500
+HIG,Hartford Financial Svc.Gp.,Financials,NYSE,USD,Common Stock,us_500
+HII,Huntington Ingalls Industries,Industrials,NYSE,USD,Common Stock,us_500
+HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+HOLX,Hologic,Health Care,NYSE,USD,Common Stock,us_500
+HON,Honeywell Int'l Inc.,Industrials,NYSE,USD,Common Stock,us_500
+HPE,Hewlett Packard Enterprise,Information Technology,NYSE,USD,Common Stock,us_500
+HPQ,HP Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+HRL,Hormel Foods Corp.,Consumer Staples,NYSE,USD,Common Stock,us_500
+HSIC,Henry Schein,Health Care,NYSE,USD,Common Stock,us_500
+HST,Host Hotels & Resorts,Real Estate,NYSE,USD,Common Stock,us_500
+HSY,The Hershey Company,Consumer Staples,NYSE,USD,Common Stock,us_500
+HUM,Humana Inc.,Health Care,NYSE,USD,Common Stock,us_500
+HWM,Howmet Aerospace,Industrials,NYSE,USD,Common Stock,us_500
+IBM,International Business Machines,Information Technology,NYSE,USD,Common Stock,us_500
+ICE,Intercontinental Exchange,Financials,NYSE,USD,Common Stock,us_500
+IDXX,Idexx Laboratories,Health Care,NYSE,USD,Common Stock,us_500
+IEX,IDEX Corporation,Industrials,NYSE,USD,Common Stock,us_500
+IFF,International Flavors & Fragrances,Materials,NYSE,USD,Common Stock,us_500
+ILMN,Illumina Inc,Health Care,NYSE,USD,Common Stock,us_500
+INCY,Incyte,Health Care,NYSE,USD,Common Stock,us_500
+INFO,IHS Markit,Industrials,NYSE,USD,Common Stock,us_500
+INTC,Intel Corp.,Information Technology,NYSE,USD,Common Stock,us_500
+INTU,Intuit Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+IP,International Paper,Materials,NYSE,USD,Common Stock,us_500
+IPG,Interpublic Group,Communication Services,NYSE,USD,Common Stock,us_500
+IPGP,IPG Photonics Corp.,Information Technology,NYSE,USD,Common Stock,us_500
+IQV,IQVIA Holdings Inc.,Health Care,NYSE,USD,Common Stock,us_500
+IR,Ingersoll Rand,Industrials,NYSE,USD,Common Stock,us_500
+IRM,Iron Mountain Incorporated,Real Estate,NYSE,USD,Common Stock,us_500
+ISRG,Intuitive Surgical Inc.,Health Care,NYSE,USD,Common Stock,us_500
+IT,Gartner Inc,Information Technology,NYSE,USD,Common Stock,us_500
+ITW,Illinois Tool Works,Industrials,NYSE,USD,Common Stock,us_500
+IVZ,Invesco Ltd.,Financials,NYSE,USD,Common Stock,us_500
+J,Jacobs Engineering Group,Industrials,NYSE,USD,Common Stock,us_500
+JBHT,J. B. Hunt Transport Services,Industrials,NYSE,USD,Common Stock,us_500
+JCI,Johnson Controls International,Industrials,NYSE,USD,Common Stock,us_500
+JKHY,Jack Henry & Associates,Information Technology,NYSE,USD,Common Stock,us_500
+JNJ,Johnson & Johnson,Health Care,NYSE,USD,Common Stock,us_500
+JNPR,Juniper Networks,Information Technology,NYSE,USD,Common Stock,us_500
+JPM,JPMorgan Chase & Co.,Financials,NYSE,USD,Common Stock,us_500
+K,Kellogg Co.,Consumer Staples,NYSE,USD,Common Stock,us_500
+KEY,KeyCorp,Financials,NYSE,USD,Common Stock,us_500
+KEYS,Keysight Technologies,Information Technology,NYSE,USD,Common Stock,us_500
+KHC,Kraft Heinz Co,Consumer Staples,NYSE,USD,Common Stock,us_500
+KIM,Kimco Realty,Real Estate,NYSE,USD,Common Stock,us_500
+KLAC,KLA Corporation,Information Technology,NYSE,USD,Common Stock,us_500
+KMB,Kimberly-Clark,Consumer Staples,NYSE,USD,Common Stock,us_500
+KMI,Kinder Morgan,Energy,NYSE,USD,Common Stock,us_500
+KMX,Carmax Inc,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+KO,Coca-Cola Company,Consumer Staples,NYSE,USD,Common Stock,us_500
+KR,Kroger Co.,Consumer Staples,NYSE,USD,Common Stock,us_500
+KSU,Kansas City Southern,Industrials,NYSE,USD,Common Stock,us_500
+L,Loews Corp.,Financials,NYSE,USD,Common Stock,us_500
+LB,L Brands Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+LDOS,Leidos Holdings,Information Technology,NYSE,USD,Common Stock,us_500
+LEG,Leggett & Platt,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+LEN,Lennar Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+LH,Laboratory Corp. of America Holding,Health Care,NYSE,USD,Common Stock,us_500
+LHX,L3Harris Technologies,Industrials,NYSE,USD,Common Stock,us_500
+LIN,Linde plc,Materials,NYSE,USD,Common Stock,us_500
+LKQ,LKQ Corporation,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+LLY,Lilly (Eli) & Co.,Health Care,NYSE,USD,Common Stock,us_500
+LMT,Lockheed Martin Corp.,Industrials,NYSE,USD,Common Stock,us_500
+LNC,Lincoln National,Financials,NYSE,USD,Common Stock,us_500
+LNT,Alliant Energy,Utilities,NYSE,USD,Common Stock,us_500
+LOW,Lowe's Cos.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+LRCX,Lam Research,Information Technology,NYSE,USD,Common Stock,us_500
+LUMN,Lumen Technologies,Communication Services,NYSE,USD,Common Stock,us_500
+LUV,Southwest Airlines,Industrials,NYSE,USD,Common Stock,us_500
+LVS,Las Vegas Sands,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+LW,Lamb Weston Holdings Inc,Consumer Staples,NYSE,USD,Common Stock,us_500
+LYB,LyondellBasell,Materials,NYSE,USD,Common Stock,us_500
+LYV,Live Nation Entertainment,Communication Services,NYSE,USD,Common Stock,us_500
+MA,Mastercard Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+MAA,Mid-America Apartments,Real Estate,NYSE,USD,Common Stock,us_500
+MAR,Marriott International,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+MAS,Masco Corp.,Industrials,NYSE,USD,Common Stock,us_500
+MCD,McDonald's Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+MCHP,Microchip Technology,Information Technology,NYSE,USD,Common Stock,us_500
+MCK,McKesson Corp.,Health Care,NYSE,USD,Common Stock,us_500
+MCO,Moody's Corp,Financials,NYSE,USD,Common Stock,us_500
+MDLZ,Mondelez International,Consumer Staples,NYSE,USD,Common Stock,us_500
+MDT,Medtronic plc,Health Care,NYSE,USD,Common Stock,us_500
+MET,MetLife Inc.,Financials,NYSE,USD,Common Stock,us_500
+MGM,MGM Resorts International,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+MHK,Mohawk Industries,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+MKC,McCormick & Co.,Consumer Staples,NYSE,USD,Common Stock,us_500
+MKTX,MarketAxess,Financials,NYSE,USD,Common Stock,us_500
+MLM,Martin Marietta Materials,Materials,NYSE,USD,Common Stock,us_500
+MMC,Marsh & McLennan,Financials,NYSE,USD,Common Stock,us_500
+MMM,3M Company,Industrials,NYSE,USD,Common Stock,us_500
+MNST,Monster Beverage,Consumer Staples,NYSE,USD,Common Stock,us_500
+MO,Altria Group Inc,Consumer Staples,NYSE,USD,Common Stock,us_500
+MOS,The Mosaic Company,Materials,NYSE,USD,Common Stock,us_500
+MPC,Marathon Petroleum,Energy,NYSE,USD,Common Stock,us_500
+MPWR,Monolithic Power Systems,Information Technology,NYSE,USD,Common Stock,us_500
+MRK,Merck & Co.,Health Care,NYSE,USD,Common Stock,us_500
+MRO,Marathon Oil Corp.,Energy,NYSE,USD,Common Stock,us_500
+MS,Morgan Stanley,Financials,NYSE,USD,Common Stock,us_500
+MSCI,MSCI Inc,Financials,NYSE,USD,Common Stock,us_500
+MSFT,Microsoft Corp.,Information Technology,NYSE,USD,Common Stock,us_500
+MSI,Motorola Solutions Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+MTB,M&T Bank,Financials,NYSE,USD,Common Stock,us_500
+MTD,Mettler Toledo,Health Care,NYSE,USD,Common Stock,us_500
+MU,Micron Technology,Information Technology,NYSE,USD,Common Stock,us_500
+MXIM,Maxim Integrated Products,Information Technology,NYSE,USD,Common Stock,us_500
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+NDAQ,Nasdaq Inc.,Financials,NYSE,USD,Common Stock,us_500
+NEE,NextEra Energy,Utilities,NYSE,USD,Common Stock,us_500
+NEM,Newmont Corporation,Materials,NYSE,USD,Common Stock,us_500
+NFLX,Netflix Inc.,Communication Services,NYSE,USD,Common Stock,us_500
+NI,NiSource Inc.,Utilities,NYSE,USD,Common Stock,us_500
+NKE,Nike Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+NLOK,NortonLifeLock,Information Technology,NYSE,USD,Common Stock,us_500
+NLSN,Nielsen Holdings,Industrials,NYSE,USD,Common Stock,us_500
+NOC,Northrop Grumman,Industrials,NYSE,USD,Common Stock,us_500
+NOV,NOV Inc.,Energy,NYSE,USD,Common Stock,us_500
+NOW,ServiceNow,Information Technology,NYSE,USD,Common Stock,us_500
+NRG,NRG Energy,Utilities,NYSE,USD,Common Stock,us_500
+NSC,Norfolk Southern Corp.,Industrials,NYSE,USD,Common Stock,us_500
+NTAP,NetApp,Information Technology,NYSE,USD,Common Stock,us_500
+NTRS,Northern Trust Corp.,Financials,NYSE,USD,Common Stock,us_500
+NUE,Nucor Corp.,Materials,NYSE,USD,Common Stock,us_500
+NVDA,Nvidia Corporation,Information Technology,NYSE,USD,Common Stock,us_500
+NVR,NVR Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+NWL,Newell Brands,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+NWS,News Corp (Class B),Communication Services,NYSE,USD,Common Stock,us_500
+NWSA,News Corp (Class A),Communication Services,NYSE,USD,Common Stock,us_500
+O,Realty Income Corporation,Real Estate,NYSE,USD,Common Stock,us_500
+ODFL,Old Dominion Freight Line,Industrials,NYSE,USD,Common Stock,us_500
+OKE,Oneok,Energy,NYSE,USD,Common Stock,us_500
+OMC,Omnicom Group,Communication Services,NYSE,USD,Common Stock,us_500
+ORCL,Oracle Corp.,Information Technology,NYSE,USD,Common Stock,us_500
+ORLY,O'Reilly Automotive,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+OTIS,Otis Worldwide,Industrials,NYSE,USD,Common Stock,us_500
+OXY,Occidental Petroleum,Energy,NYSE,USD,Common Stock,us_500
+PAYC,Paycom,Information Technology,NYSE,USD,Common Stock,us_500
+PAYX,Paychex Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+PBCT,People's United Financial,Financials,NYSE,USD,Common Stock,us_500
+PCAR,Paccar,Industrials,NYSE,USD,Common Stock,us_500
+PEAK,Healthpeak Properties,Real Estate,NYSE,USD,Common Stock,us_500
+PEG,Public Service Enterprise Group (PSEG),Utilities,NYSE,USD,Common Stock,us_500
+PEP,PepsiCo Inc.,Consumer Staples,NYSE,USD,Common Stock,us_500
+PFE,Pfizer Inc.,Health Care,NYSE,USD,Common Stock,us_500
+PFG,Principal Financial Group,Financials,NYSE,USD,Common Stock,us_500
+PG,Procter & Gamble,Consumer Staples,NYSE,USD,Common Stock,us_500
+PGR,Progressive Corp.,Financials,NYSE,USD,Common Stock,us_500
+PH,Parker-Hannifin,Industrials,NYSE,USD,Common Stock,us_500
+PHM,PulteGroup,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+PKG,Packaging Corporation of America,Materials,NYSE,USD,Common Stock,us_500
+PKI,PerkinElmer,Health Care,NYSE,USD,Common Stock,us_500
+PLD,Prologis,Real Estate,NYSE,USD,Common Stock,us_500
+PM,Philip Morris International,Consumer Staples,NYSE,USD,Common Stock,us_500
+PNC,PNC Financial Services,Financials,NYSE,USD,Common Stock,us_500
+PNR,Pentair plc,Industrials,NYSE,USD,Common Stock,us_500
+PNW,Pinnacle West Capital,Utilities,NYSE,USD,Common Stock,us_500
+POOL,Pool Corporation,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+PPG,PPG Industries,Materials,NYSE,USD,Common Stock,us_500
+PPL,PPL Corp.,Utilities,NYSE,USD,Common Stock,us_500
+PRGO,Perrigo,Health Care,NYSE,USD,Common Stock,us_500
+PRU,Prudential Financial,Financials,NYSE,USD,Common Stock,us_500
+PSA,Public Storage,Real Estate,NYSE,USD,Common Stock,us_500
+PSX,Phillips 66,Energy,NYSE,USD,Common Stock,us_500
+PVH,PVH Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+PWR,Quanta Services Inc.,Industrials,NYSE,USD,Common Stock,us_500
+PXD,Pioneer Natural Resources,Energy,NYSE,USD,Common Stock,us_500
+PYPL,PayPal,Information Technology,NYSE,USD,Common Stock,us_500
+QCOM,Qualcomm,Information Technology,NYSE,USD,Common Stock,us_500
+QRVO,Qorvo,Information Technology,NYSE,USD,Common Stock,us_500
+RCL,Royal Caribbean Group,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+RE,Everest Re Group Ltd.,Financials,NYSE,USD,Common Stock,us_500
+REG,Regency Centers Corporation,Real Estate,NYSE,USD,Common Stock,us_500
+REGN,Regeneron Pharmaceuticals,Health Care,NYSE,USD,Common Stock,us_500
+RF,Regions Financial Corp.,Financials,NYSE,USD,Common Stock,us_500
+RHI,Robert Half International,Industrials,NYSE,USD,Common Stock,us_500
+RJF,Raymond James Financial,Financials,NYSE,USD,Common Stock,us_500
+RL,Ralph Lauren Corporation,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+RMD,ResMed,Health Care,NYSE,USD,Common Stock,us_500
+ROK,Rockwell Automation Inc.,Industrials,NYSE,USD,Common Stock,us_500
+ROL,Rollins Inc.,Industrials,NYSE,USD,Common Stock,us_500
+ROP,Roper Technologies,Industrials,NYSE,USD,Common Stock,us_500
+ROST,Ross Stores,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+RSG,Republic Services Inc,Industrials,NYSE,USD,Common Stock,us_500
+RTX,Raytheon Technologies,Industrials,NYSE,USD,Common Stock,us_500
+SBAC,SBA Communications,Real Estate,NYSE,USD,Common Stock,us_500
+SBUX,Starbucks Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+SCHW,Charles Schwab Corporation,Financials,NYSE,USD,Common Stock,us_500
+SEE,Sealed Air,Materials,NYSE,USD,Common Stock,us_500
+SHW,Sherwin-Williams,Materials,NYSE,USD,Common Stock,us_500
+SIVB,SVB Financial,Financials,NYSE,USD,Common Stock,us_500
+SJM,JM Smucker,Consumer Staples,NYSE,USD,Common Stock,us_500
+SLB,Schlumberger Ltd.,Energy,NYSE,USD,Common Stock,us_500
+SLG,SL Green Realty,Real Estate,NYSE,USD,Common Stock,us_500
+SNA,Snap-on,Industrials,NYSE,USD,Common Stock,us_500
+SNPS,Synopsys Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+SO,Southern Company,Utilities,NYSE,USD,Common Stock,us_500
+SPG,Simon Property Group Inc,Real Estate,NYSE,USD,Common Stock,us_500
+SPGI,S&P Global Inc.,Financials,NYSE,USD,Common Stock,us_500
+SRE,Sempra Energy,Utilities,NYSE,USD,Common Stock,us_500
+STE,Steris,Health Care,NYSE,USD,Common Stock,us_500
+STT,State Street Corp.,Financials,NYSE,USD,Common Stock,us_500
+STX,Seagate Technology,Information Technology,NYSE,USD,Common Stock,us_500
+STZ,Constellation Brands,Consumer Staples,NYSE,USD,Common Stock,us_500
+SWK,Stanley Black & Decker,Industrials,NYSE,USD,Common Stock,us_500
+SWKS,Skyworks Solutions,Information Technology,NYSE,USD,Common Stock,us_500
+SYF,Synchrony Financial,Financials,NYSE,USD,Common Stock,us_500
+SYK,Stryker Corp.,Health Care,NYSE,USD,Common Stock,us_500
+SYY,Sysco Corp.,Consumer Staples,NYSE,USD,Common Stock,us_500
+T,AT&T Inc.,Communication Services,NYSE,USD,Common Stock,us_500
+TAP,Molson Coors Beverage Company,Consumer Staples,NYSE,USD,Common Stock,us_500
+TDG,TransDigm Group,Industrials,NYSE,USD,Common Stock,us_500
+TDY,Teledyne Technologies,Industrials,NYSE,USD,Common Stock,us_500
+TEL,TE Connectivity Ltd.,Information Technology,NYSE,USD,Common Stock,us_500
+TER,Teradyne,Information Technology,NYSE,USD,Common Stock,us_500
+TFC,Truist Financial,Financials,NYSE,USD,Common Stock,us_500
+TFX,Teleflex,Health Care,NYSE,USD,Common Stock,us_500
+TGT,Target Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+TJX,TJX Companies Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+TMO,Thermo Fisher Scientific,Health Care,NYSE,USD,Common Stock,us_500
+TMUS,T-Mobile US,Communication Services,NYSE,USD,Common Stock,us_500
+TPR,Tapestry Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+TRMB,Trimble Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+TROW,T. Rowe Price Group,Financials,NYSE,USD,Common Stock,us_500
+TRV,The Travelers Companies,Financials,NYSE,USD,Common Stock,us_500
+TSCO,Tractor Supply Company,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+TSLA,Tesla Inc.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+TSN,Tyson Foods,Consumer Staples,NYSE,USD,Common Stock,us_500
+TT,Trane Technologies plc,Industrials,NYSE,USD,Common Stock,us_500
+TTWO,Take-Two Interactive,Communication Services,NYSE,USD,Common Stock,us_500
+TWTR,Twitter Inc.,Communication Services,NYSE,USD,Common Stock,us_500
+TXN,Texas Instruments,Information Technology,NYSE,USD,Common Stock,us_500
+TXT,Textron Inc.,Industrials,NYSE,USD,Common Stock,us_500
+TYL,Tyler Technologies,Information Technology,NYSE,USD,Common Stock,us_500
+UA,Under Armour (Class C),Consumer Discretionary,NYSE,USD,Common Stock,us_500
+UAA,Under Armour (Class A),Consumer Discretionary,NYSE,USD,Common Stock,us_500
+UAL,United Airlines Holdings,Industrials,NYSE,USD,Common Stock,us_500
+UDR,UDR Inc.,Real Estate,NYSE,USD,Common Stock,us_500
+UHS,Universal Health Services,Health Care,NYSE,USD,Common Stock,us_500
+ULTA,Ulta Beauty,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+UNH,UnitedHealth Group Inc.,Health Care,NYSE,USD,Common Stock,us_500
+UNM,Unum Group,Financials,NYSE,USD,Common Stock,us_500
+UNP,Union Pacific Corp,Industrials,NYSE,USD,Common Stock,us_500
+UPS,United Parcel Service,Industrials,NYSE,USD,Common Stock,us_500
+URI,United Rentals Inc.,Industrials,NYSE,USD,Common Stock,us_500
+USB,U.S. Bancorp,Financials,NYSE,USD,Common Stock,us_500
+V,Visa Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+VAR,Varian Medical Systems,Health Care,NYSE,USD,Common Stock,us_500
+VFC,VF Corporation,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+VIAC,ViacomCBS,Communication Services,NYSE,USD,Common Stock,us_500
+VLO,Valero Energy,Energy,NYSE,USD,Common Stock,us_500
+VMC,Vulcan Materials,Materials,NYSE,USD,Common Stock,us_500
+VNO,Vornado Realty Trust,Real Estate,NYSE,USD,Common Stock,us_500
+VNT,Vontier,Information Technology,NYSE,USD,Common Stock,us_500
+VRSK,Verisk Analytics,Industrials,NYSE,USD,Common Stock,us_500
+VRSN,Verisign Inc.,Information Technology,NYSE,USD,Common Stock,us_500
+VRTX,Vertex Pharmaceuticals Inc,Health Care,NYSE,USD,Common Stock,us_500
+VTR,Ventas Inc,Real Estate,NYSE,USD,Common Stock,us_500
+VTRS,Viatris,Health Care,NYSE,USD,Common Stock,us_500
+VZ,Verizon Communications,Communication Services,NYSE,USD,Common Stock,us_500
+WAB,Westinghouse Air Brake Technologies Corp,Industrials,NYSE,USD,Common Stock,us_500
+WAT,Waters Corporation,Health Care,NYSE,USD,Common Stock,us_500
+WBA,Walgreens Boots Alliance,Consumer Staples,NYSE,USD,Common Stock,us_500
+WDC,Western Digital,Information Technology,NYSE,USD,Common Stock,us_500
+WEC,WEC Energy Group,Utilities,NYSE,USD,Common Stock,us_500
+WELL,Welltower Inc.,Real Estate,NYSE,USD,Common Stock,us_500
+WFC,Wells Fargo,Financials,NYSE,USD,Common Stock,us_500
+WHR,Whirlpool Corp.,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+WLTW,Willis Towers Watson,Financials,NYSE,USD,Common Stock,us_500
+WM,Waste Management Inc.,Industrials,NYSE,USD,Common Stock,us_500
+WMB,Williams Companies,Energy,NYSE,USD,Common Stock,us_500
+WMT,Walmart,Consumer Staples,NYSE,USD,Common Stock,us_500
+WRB,W. R. Berkley Corporation,Financials,NYSE,USD,Common Stock,us_500
+WRK,WestRock,Materials,NYSE,USD,Common Stock,us_500
+WST,West Pharmaceutical Services,Health Care,NYSE,USD,Common Stock,us_500
+WU,Western Union Co,Information Technology,NYSE,USD,Common Stock,us_500
+WY,Weyerhaeuser,Real Estate,NYSE,USD,Common Stock,us_500
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+XEL,Xcel Energy Inc,Utilities,NYSE,USD,Common Stock,us_500
+XLNX,Xilinx,Information Technology,NYSE,USD,Common Stock,us_500
+XOM,Exxon Mobil Corp.,Energy,NYSE,USD,Common Stock,us_500
+XRAY,Dentsply Sirona,Health Care,NYSE,USD,Common Stock,us_500
+XRX,Xerox,Information Technology,NYSE,USD,Common Stock,us_500
+XYL,Xylem Inc.,Industrials,NYSE,USD,Common Stock,us_500
+YUM,Yum! Brands Inc,Consumer Discretionary,NYSE,USD,Common Stock,us_500
+ZBH,Zimmer Biomet,Health Care,NYSE,USD,Common Stock,us_500
+ZBRA,Zebra Technologies,Information Technology,NYSE,USD,Common Stock,us_500
+ZION,Zions Bancorp,Financials,NYSE,USD,Common Stock,us_500
+ZTS,Zoetis,Health Care,NYSE,USD,Common Stock,us_500

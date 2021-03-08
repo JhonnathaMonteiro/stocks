@@ -1,0 +1,423 @@
+﻿code,name,country,exchange,currency,type,market
+AALR3,Centro de Imagem Diagnósticos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ABCB4,Banco ABC Brasil S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ABEV3,Ambev S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AERI3,Aeris Indústria e Comércio de Equipamentos para Geração de Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AFLT3,Afluente Transmissão de Energia Elétrica S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AGRO3,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,Brazil,SA,BRL,Common Stock,sa_stocks
+AHEB6,São Paulo Turismo S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ALPA3,Alpargatas S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ALPA4,Alpargatas S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ALPK3,"Allpark Empreendimentos, Participações e Serviços S.A",Brazil,SA,BRL,Common Stock,sa_stocks
+ALSO3,Aliansce Sonae Shopping Centers SA,Brazil,SA,BRL,Common Stock,sa_stocks
+ALUP3,Alupar Investimento S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ALUP4,Alupar Investimento S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+AMAR3,Marisa Lojas S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AMBP3,Ambipar Participações e Empreendimentos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ANIM3,Anima Holding S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+APER3,Alper Consultoria e Corretora de Seguros S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ARZZ3,Arezzo Indústria e Comércio S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ASAI3,Sendas Distribuidora S.A.,Brazil,SA,BRL,Common Stock,sa_stocks
+ATOM3,Atom Empreendimentos e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AURA33,Aura Minerals Inc,Brazil,SA,BRL,Common Stock,sa_stocks
+AVLL3,Alphaville S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AZEV3,Azevedo & Travassos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+AZEV4,Azevedo & Travassos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+AZUL4,Azul S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+B3SA3,"B3 S.A. - Brasil, Bolsa, Balcão",Brazil,SA,BRL,Common Stock,sa_stocks
+BAHI3,Bahema Educação S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BALM4,Baumer S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BAUH4,Excelsior Alimentos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BAZA3,Banco da Amazônia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BBAS3,Banco do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BBDC3,Banco Bradesco S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BBDC4,Banco Bradesco S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BBRK3,Brasil Brokers Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BBSE3,BB Seguridade Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BDLL4,Bardella S.A. Indústrias Mecânicas,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BDRX,INDICE DE BDR NAO PATR GLOBAL INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+BEEF3,Minerva S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BEES3,Banestes S.A - Banco do Estado do Espírito Santo,Brazil,SA,BRL,Common Stock,sa_stocks
+BEES4,Banestes S.A - Banco do Estado do Espírito Santo,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BGIP3,Banco do Estado de Sergipe S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BGIP4,Banco do Estado de Sergipe S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BIDI3,Banco Inter S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BIDI4,Banco Inter S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BIOM3,Biomm S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BKBR3,BK Brasil Operação e Assessoria a Restaurantes S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BMEB3,Banco Mercantil do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BMEB4,Banco Mercantil do Brasil S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BMGB4,Banco BMG S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BMIN4,Banco Mercantil de Investimentos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BMKS3,Bicicletas Monark S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BMOB3,Bemobi Mobile Tech S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BNBR3,Banco do Nordeste do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BOAS3,Boa Vista Serviços S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BOBR4,Bombril S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BPAC3,Banco BTG Pactual S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BPAC5,Banco BTG Pactual S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BPAN4,Banco Pan S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRAP3,Bradespar S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRAP4,Bradespar S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRDT3,Petrobras Distribuidora S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRFS3,BRF S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRGE12,Consórcio Alfa de Administração S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRGE3,Consórcio Alfa de Administração S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRGE5,Consórcio Alfa de Administração S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRGE8,Consórcio Alfa de Administração S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRIV3,Banco Alfa de Investimento S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRIV4,Banco Alfa de Investimento S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRKM3,Braskem S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRKM5,Braskem S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRKM6,Braskem S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRML3,BR Malls Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRPR3,BR Properties S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRSR3,Banco do Estado do Rio Grande do Sul S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BRSR5,Banco do Estado do Rio Grande do Sul S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BRSR6,Banco do Estado do Rio Grande do Sul S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+BSEV3,Biosev S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+BTOW3,B2W - Companhia Digital,Brazil,SA,BRL,Common Stock,sa_stocks
+BTTL3,Battistella Administração e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CALI4,Construtora Adolpho Lindenberg S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CAMB3,Cambuci S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CAML3,Camil Alimentos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CARD3,CSU Cardsystem S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CASH3,Méliuz S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CCPR3,Cyrela Commercial Properties S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CCRO3,CCR S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CEAB3,C&A Modas S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CEBR3,Companhia Energética de Brasília - CEB,Brazil,SA,BRL,Common Stock,sa_stocks
+CEBR5,Companhia Energética de Brasília - CEB,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CEBR6,Companhia Energética de Brasília - CEB,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CEDO4,Companhia de Fiação e Tecidos Cedro e Cachoeira S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CEEB3,Companhiade Eletricidade do Estado da Bahia - COELBA,Brazil,SA,BRL,Common Stock,sa_stocks
+CEEB5,Companhiade Eletricidade do Estado da Bahia - COELBA,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CEED4,Companhia Estadual de Distribuição de Energia Elétrica,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CEPE5,Companhia Energética de Pernambuco - CELPE,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CEPE6,Companhia Energética de Pernambuco - CELPE,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CESP3,CESP - Companhia Energética de São Paulo,Brazil,SA,BRL,Common Stock,sa_stocks
+CESP5,CESP - Companhia Energética de São Paulo,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CESP6,CESP - Companhia Energética de São Paulo,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CGAS3,Companhia de Gás de São Paulo - COMGÁS,Brazil,SA,BRL,Common Stock,sa_stocks
+CGAS5,Companhia de Gás de São Paulo - COMGÁS,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CGRA3,Grazziotin S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CGRA4,Grazziotin S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CIEL3,Cielo S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CLSC4,Centrais Elétricas de Santa Catarina S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CMIG3,Companhia Energética de Minas Gerais,Brazil,SA,BRL,Common Stock,sa_stocks
+CMIG4,Companhia Energética de Minas Gerais,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CMIN3,CSN Mineração S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CNTO3,Grupo SBF S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+COCE3,Companhia Energética do Ceará - Coelce,Brazil,SA,BRL,Common Stock,sa_stocks
+COCE5,Companhia Energética do Ceará - Coelce,Brazil,SA,BRL,Preferred Stock,sa_stocks
+COGN3,Cogna Educação S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CPFE3,CPFL Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CPLE3,Companhia Paranaense de Energia - COPEL,Brazil,SA,BRL,Common Stock,sa_stocks
+CPLE6,Companhia Paranaense de Energia - COPEL,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CRDE3,CR2 Empreendimentos Imobiliários S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CRFB3,Atacadão S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CRIV3,"Financeira Alfa S.A. - Crédito, Financiamento e Investimentos",Brazil,SA,BRL,Common Stock,sa_stocks
+CRIV4,"Financeira Alfa S.A. - Crédito, Financiamento e Investimentos",Brazil,SA,BRL,Preferred Stock,sa_stocks
+CRPG3,Tronox Pigmentos do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CRPG5,Tronox Pigmentos do Brasil S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CRPG6,Tronox Pigmentos do Brasil S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CSAN3,Cosan S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CSED3,Cruzeiro do Sul Educacional S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CSMG3,Companhia de Saneamento de Minas Gerais,Brazil,SA,BRL,Common Stock,sa_stocks
+CSNA3,Companhia Siderúrgica Nacional,Brazil,SA,BRL,Common Stock,sa_stocks
+CSRN3,Companhia Energética do Rio Grande do Norte - COSERN,Brazil,SA,BRL,Common Stock,sa_stocks
+CSRN5,Companhia Energética do Rio Grande do Norte - COSERN,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CSRN6,Companhia Energética do Rio Grande do Norte - COSERN,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CTKA4,Karsten S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CTNM3,Companhia de Tecidos Norte de Minas,Brazil,SA,BRL,Common Stock,sa_stocks
+CTNM4,Companhia de Tecidos Norte de Minas,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CTSA3,Companhia Tecidos Santanense Ltda,Brazil,SA,BRL,Common Stock,sa_stocks
+CTSA4,Companhia Tecidos Santanense Ltda,Brazil,SA,BRL,Preferred Stock,sa_stocks
+CURY3,Cury Construtora e Incorporadora S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CVCB3,CVC Brasil Operadora e Agência de Viagens S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+CYRE3,Cyrela Brazil Realty S.A. Empreendimentos e Participações,Brazil,SA,BRL,Common Stock,sa_stocks
+DASA3,Diagnósticos da América S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+DIRR3,Direcional Engenharia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+DMMO3,Dommo Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+DMVF3,d1000 Varejo Farma Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+DOHL4,Döhler S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+DTCY3,DTCOM - Direct to Company S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+DTEX3,Duratex S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EALT3,Electro Aço Altona S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EALT4,Electro Aço Altona S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ECOR3,EcoRodovias Infraestrutura e Logística S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EEEL4,Companhia Estadual de Geração e Transmissão de Energia Elétrica - CEEE-GT,Brazil,SA,BRL,Preferred Stock,sa_stocks
+EGIE3,Engie Brasil Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EKTR4,Elektro Redes S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ELET3,Centrais Elétricas Brasileiras S.A. - Eletrobrás,Brazil,SA,BRL,Common Stock,sa_stocks
+ELET5,Centrais Elétricas Brasileiras S.A. - Eletrobrás,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ELET6,Centrais Elétricas Brasileiras S.A. - Eletrobrás,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ELMD3,Eletromidia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EMAE4,Empresa Metropolitana de Águas e Energia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+EMBR3,Embraer S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ENAT3,Enauta Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ENBR3,EDP - Energias do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ENEV3,Eneva S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ENGI3,Energisa S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ENGI4,Energisa S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ENMT3,Energisa Mato Grosso - Distribuidora de Energia S/A,Brazil,SA,BRL,Common Stock,sa_stocks
+EQPA3,Equatorial Pará Distribuidora de Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EQPA5,Equatorial Pará Distribuidora de Energia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+EQPA7,Equatorial Pará Distribuidora de Energia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+EQTL3,Equatorial Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ESTR4,Manufatura de Brinquedos Estrela S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ETER3,Eternit S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EUCA3,Eucatex S.A. Indústria e Comércio,Brazil,SA,BRL,Common Stock,sa_stocks
+EUCA4,Eucatex S.A. Indústria e Comércio,Brazil,SA,BRL,Preferred Stock,sa_stocks
+EVEN3,Even Construtora e Incorporadora S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+EZTC3,EZTEC Empreendimentos e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+FESA3,Cia de Ferro Ligas da Bahia - FERBASA,Brazil,SA,BRL,Common Stock,sa_stocks
+FESA4,Cia de Ferro Ligas da Bahia - FERBASA,Brazil,SA,BRL,Preferred Stock,sa_stocks
+FHER3,Fertilizantes Heringer S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+FLRY3,Fleury S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+FRAS3,Fras-le S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+FRIO3,Metalfrio Solutions S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+FRTA3,Pomifrutas S/A,Brazil,SA,BRL,Common Stock,sa_stocks
+GBIO33,Biotoscana Investments S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GEPA3,Rio Paranapanema Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GEPA4,Rio Paranapanema Energia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+GFSA3,Gafisa S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GGBR3,Gerdau S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GGBR4,Gerdau S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+GMAT3,Grupo Mateus S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GNDI3,Notre Dame Intermédica Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GOAU3,Metalurgica Gerdau S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GOAU4,Metalurgica Gerdau S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+GOGL35,Alphabet Inc,Brazil,SA,BRL,Preferred Stock,sa_stocks
+GOLL4,Gol Linhas Aéreas Inteligentes S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+GPCP3,GPC Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GPIV33,"GP Investments, Ltd",Brazil,SA,BRL,Common Stock,sa_stocks
+GRND3,Grendene S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GSHP3,General Shopping e Outlets do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+GUAR3,Guararapes Confecções S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+HAGA3,HAGA S/A Indústria e Comércio,Brazil,SA,BRL,Common Stock,sa_stocks
+HAGA4,HAGA S/A Indústria e Comércio,Brazil,SA,BRL,Preferred Stock,sa_stocks
+HAPV3,Hapvida Participações e Investimentos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+HBOR3,Helbor Empreendimentos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+HBRE3,HBR Realty Empreendimentos Imobiliários S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+HBSA3,Hidrovias do Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+HBTS5,Companhia Habitasul de Participações,Brazil,SA,BRL,Preferred Stock,sa_stocks
+HETA4,Hércules S.A - Fábrica de Talheres,Brazil,SA,BRL,Preferred Stock,sa_stocks
+HGTX3,Cia. Hering,Brazil,SA,BRL,Common Stock,sa_stocks
+HOOT4,Hotéis Othon S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+HYPE3,Hypera S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+IBOV,Sao Paulo Bovespa Index,Brazil,SA,BRL,Common Stock,sa_stocks
+IBRA,BRAZIL BROAD BASED INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+IBXL,SAO PAULO SE IBX50 INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+IBXX,SAO PAULO SE IBX INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+ICO2,CARBON EFFICIENT INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+ICON,INDICE SETORIAL DE CONSUMO,Brazil,SA,BRL,Common Stock,sa_stocks
+IDIV,DIVIDEND INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+IEEX,SAO PAULO SE IEE INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+IFIX,INDICE DE FII INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+IFNC,INDICE FINANCEIRO,Brazil,SA,BRL,Common Stock,sa_stocks
+IGBR3,IGB Eletronica S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+IGCX,SAO PAULO SE IGCX INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+IGTA3,Iguatemi Empresa de Shopping Centers S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+IMOB,REAL ESTATE INDEX IMOB,Brazil,SA,BRL,Common Stock,sa_stocks
+INDX,BOVESPA INDUSTRIAL SECTOR INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+INEP3,Inepar S.A. Indústria e Construções,Brazil,SA,BRL,Common Stock,sa_stocks
+INEP4,Inepar S.A. Indústria e Construções,Brazil,SA,BRL,Preferred Stock,sa_stocks
+INTB3,Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira,Brazil,SA,BRL,Common Stock,sa_stocks
+IRBR3,IRB-Brasil Resseguros S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ISEE,CORPORATE SUSTAINABILITY INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+ITAG,ITAG IND,Brazil,SA,BRL,Common Stock,sa_stocks
+ITSA3,Itaúsa - Investimentos Itaú SA,Brazil,SA,BRL,Common Stock,sa_stocks
+ITSA4,Itaúsa - Investimentos Itaú SA,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ITUB3,Itaú Unibanco Holding S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ITUB4,Itaú Unibanco Holding S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+IVBX,IVBX IND,Brazil,SA,BRL,Common Stock,sa_stocks
+JALL3,Jalles Machado S/A,Brazil,SA,BRL,Common Stock,sa_stocks
+JBDU3,Indústrias J.B. Duarte S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+JBDU4,Indústrias J.B. Duarte S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+JBSS3,JBS S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+JHSF3,JHSF Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+JOPA3,JOSAPAR Joaquim Oliveira S.A. Participações,Brazil,SA,BRL,Common Stock,sa_stocks
+JPSA3,Jereissati Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+KEPL3,Kepler Weber S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+KLBN3,Klabin S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+KLBN4,Klabin S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+LAME3,Lojas Americanas S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LAME4,Lojas Americanas S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+LAVV3,Lavvi Empreendimentos Imobiliários S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LCAM3,Companhia de Locação das Américas,Brazil,SA,BRL,Common Stock,sa_stocks
+LEVE3,MAHLE Metal Leve S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LIGT3,Light S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LINX3,Linx S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LJQQ3,Lojas Quero-Quero S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LLIS3,Restoque Comércio e Confecções de Roupas S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LOGG3,LOG Commercial Properties e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LOGN3,Log-In Logística Intermodal S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LPSB3,LPS Brasil - Consultoria de Imóveis S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LREN3,Lojas Renner S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LUPA3,Lupatech S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+LUXM4,Trevisa Investimentos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+LWSA3,Locaweb Serviços de Internet S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MBLY3,Mobly S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MDIA3,M. Dias Branco S.A. Indústria e Comércio de Alimentos,Brazil,SA,BRL,Common Stock,sa_stocks
+MDNE3,Moura Dubeux Engenharia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MEAL3,International Meal Company Alimentação S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MERC4,Mercantil do Brasil Financeira S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+MGEL4,Mangels Industrial S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+MGLU3,Magazine Luiza S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MILS3,Mills Estruturas e Serviços de Engenharia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MLCX,BMF BOVESPA MIDLARGECAP INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+MMXM3,MMX Mineração e Metálicos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MNDL3,Mundial S.A. - Produtos de Consumo,Brazil,SA,BRL,Common Stock,sa_stocks
+MNPR3,Minupar Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MOAR3,Monteiro Aranha S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MOSI3,Mosaico Tecnologia ao Consumidor S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MOVI3,Movida Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MRFG3,Marfrig Global Foods S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MRVE3,MRV Engenharia e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MSPA3,Companhia Melhoramentos de São Paulo,Brazil,SA,BRL,Common Stock,sa_stocks
+MTIG4,Metalgráfica Iguaçu S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+MTRE3,Mitre Realty Empreendimentos e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MTSA4,METISA Metalúrgica Timboense S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+MULT3,Multiplan Empreendimentos Imobiliários S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+MWET4,Wetzel S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+MYPK3,Iochpe-Maxion S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+NEOE3,Neoenergia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+NGRD3,Neogrid Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+NORD3,Nordon Indústrias Metalúrgicas S/A,Brazil,SA,BRL,Common Stock,sa_stocks
+NTCO3,Natura &Co Holding S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ODPV3,Odontoprev S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+OFSA3,Ouro Fino Saúde Animal Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+OIBR3,Oi S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+OIBR4,Oi S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+OMGE3,Omega Geração S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+OPCT3,OceanPact Serviços Marítimos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+ORVR3,Orizon Valorizacao De Residuos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+OSXB3,OSX Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PARD3,Instituto Hermes Pardini S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PATI3,Panatlântica S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PATI4,Panatlântica S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+PCAR3,Companhia Brasileira de Distribuição,Brazil,SA,BRL,Common Stock,sa_stocks
+PDGR3,PDG Realty S.A. Empreendimentos e Participações,Brazil,SA,BRL,Common Stock,sa_stocks
+PETR3,Petróleo Brasileiro S.A. - Petrobras,Brazil,SA,BRL,Common Stock,sa_stocks
+PETR4,Petróleo Brasileiro S.A. - Petrobras,Brazil,SA,BRL,Preferred Stock,sa_stocks
+PETZ3,Pet Center Comércio e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PFRM3,Profarma Distribuidora de Produtos Farmacêuticos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PGMN3,Empreendimentos Pague Menos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PINE4,Banco Pine S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+PLAS3,Plascar Participações Industriais S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PLPL3,Plano & Plano Desenvolvimento Imobiliário S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PMAM3,Paranapanema S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PNVL3,Dimed S.A. Distribuidora de Medicamentos,Brazil,SA,BRL,Common Stock,sa_stocks
+PNVL4,Dimed S.A. Distribuidora de Medicamentos,Brazil,SA,BRL,Preferred Stock,sa_stocks
+POMO3,Marcopolo S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+POMO4,Marcopolo S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+POSI3,Positivo Tecnologia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+POWE3,Focus Energia Holding Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PRIO3,Petro Rio S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PRNR3,Priner Serviços Industriais S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PSSA3,Porto Seguro S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PTBL3,PBG S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+PTNT3,Pettenati S.A. Industria Têxtil,Brazil,SA,BRL,Common Stock,sa_stocks
+PTNT4,Pettenati S.A. Industria Têxtil,Brazil,SA,BRL,Preferred Stock,sa_stocks
+QUAL3,Qualicorp Consultoria e Corretora de Seguros S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RADL3,Raia Drogasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RAIL3,Rumo S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RANI3,Irani Papel e Embalagem S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RAPT3,Randon S.A. Implementos e Participações,Brazil,SA,BRL,Common Stock,sa_stocks
+RAPT4,Randon S.A. Implementos e Participações,Brazil,SA,BRL,Preferred Stock,sa_stocks
+RCSL3,Recrusul S/A,Brazil,SA,BRL,Common Stock,sa_stocks
+RCSL4,Recrusul S/A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+RDNI3,RNI Negócios Imobiliários S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RDOR3,Rede D'Or São Luiz S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+REDE3,Rede Energia Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RENT3,Localiza Rent a Car S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RLOG3,Cosan Logística S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RNEW3,Renova Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RNEW4,Renova Energia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+ROMI3,Indústrias Romi S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RPAD3,Alfa Holdings S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RPAD5,Alfa Holdings S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+RPAD6,Alfa Holdings S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+RPMG3,Refinaria de Petróleos de Manguinhos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RRRP3,3R Petroleum Óleo e Gás S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RSID3,Rossi Residencial S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+RSUL4,Metalúrgica Riosulense S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SANB3,Banco Santander (Brasil) S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SANB4,Banco Santander (Brasil) S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SAPR3,Companhia de Saneamento do Paraná - SANEPAR,Brazil,SA,BRL,Common Stock,sa_stocks
+SAPR4,Companhia de Saneamento do Paraná - SANEPAR,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SBSP3,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,Brazil,SA,BRL,Common Stock,sa_stocks
+SCAR3,São Carlos Empreendimentos e Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SEER3,Ser Educacional S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SEQL3,Sequoia Logística e Transportes S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SGPS3,Springs Global Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SHOW3,T4F Entretenimento S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SHUL4,Schulz S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SLCE3,SLC Agrícola S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SLED3,Saraiva Livreiros S.A. - em Recuperação Judicial,Brazil,SA,BRL,Common Stock,sa_stocks
+SLED4,Saraiva Livreiros S.A. - em Recuperação Judicial,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SMLL,BMF BOVESPA SMALL CAP INDEX,Brazil,SA,BRL,Common Stock,sa_stocks
+SMLS3,Smiles Fidelidade S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SMTO3,São Martinho S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SNSY5,Sansuy S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SOMA3,Grupo de Moda SOMA S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SOND5,Sondotécnica Engenharia de Solos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SOND6,Sondotécnica Engenharia de Solos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SPRI3,Springer S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SQIA3,Sinqia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+STBP3,Santos Brasil Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SULA3,Sul América S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+SULA4,Sul América S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+SUZB3,Suzano S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TAEE3,Transmissora Aliança de Energia Elétrica S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TAEE4,Transmissora Aliança de Energia Elétrica S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TASA3,Taurus Armas S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TASA4,Taurus Armas S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TCNO3,Tecnosolo Engenharia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TCNO4,Tecnosolo Engenharia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TCSA3,Tecnisa S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TECN3,Technos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TEKA4,Teka Tecelagem Kuehnrich S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TELB3,Telecomunicações Brasileiras S.A. - TELEBRÁS,Brazil,SA,BRL,Common Stock,sa_stocks
+TELB4,Telecomunicações Brasileiras S.A. - TELEBRÁS,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TEND3,Construtora Tenda S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TESA12,TESA12,Brazil,SA,BRL,Common Stock,sa_stocks
+TESA3,Terra Santa Agro S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TGMA3,Tegma Gestão Logística S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TIET3,AES Tietê Energia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TIET4,AES Tietê Energia S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TOTS3,TOTVS S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TPIS3,Triunfo Participações e Investimentos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TRIS3,Trisul S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TRPL3,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TRPL4,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+TUPY3,Tupy S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TXRX3,Têxtil Renauxview S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+TXRX4,Têxtil Renauxview S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+UCAS3,Unicasa Indústria de Móveis S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+UGPA3,Ultrapar Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+UNIP3,Unipar Carbocloro S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+UNIP5,Unipar Carbocloro S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+UNIP6,Unipar Carbocloro S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+USIM3,Usinas Siderúrgicas de Minas Gerais S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+USIM5,Usinas Siderúrgicas de Minas Gerais S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+USIM6,Usinas Siderúrgicas de Minas Gerais S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+VALE3,Vale S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+VAMO3,"Vamos Locação de Caminhões, Máquinas e Equipamentos S.A",Brazil,SA,BRL,Common Stock,sa_stocks
+VIVA3,Vivara Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+VIVR3,Viver Incorporadora e Construtora S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+VIVT3,Telefônica Brasil S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+VLID3,Valid Soluções S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+VULC3,Vulcabras Azaleia S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+VVAR3,Via Varejo S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+WEGE3,WEG S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+WEST3,Westwing Comércio Varejista S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+WHRL3,Whirlpool S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+WHRL4,Whirlpool S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+WIZS3,Wiz Soluções e Corretagem de Seguros S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+WLMM3,WLM Participações e Comércio de Máquinas e Veículos S.A,Brazil,SA,BRL,Common Stock,sa_stocks
+WLMM4,WLM Participações e Comércio de Máquinas e Veículos S.A,Brazil,SA,BRL,Preferred Stock,sa_stocks
+WSON33,Wilson Sons Limited,Brazil,SA,BRL,Common Stock,sa_stocks
+XPHT12,XP Hoteis Fundo De Investimento Imobiliario FII,Brazil,SA,BRL,Common Stock,sa_stocks
+YDUQ3,Yduqs Participações S.A,Brazil,SA,BRL,Common Stock,sa_stocks
